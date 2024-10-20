@@ -1,0 +1,20 @@
+Question 1: What is the capital of France?
+A. Berlin
+B. Paris
+C. Madrid
+D. Rome
+Answer: B
+
+Question 2: What is 2 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Answer: B
+
+Question 3: What is the largest planet in our solar system?
+A. Earth
+B. Mars
+C. Jupiter
+D. Venus
+Answer: C
