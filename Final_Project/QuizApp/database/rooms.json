@@ -1,0 +1,40 @@
+{
+    "rooms": [
+        {
+            "capacity": 5,
+            "close_time": "2023-01-01 17:00:00",
+            "id": 1,
+            "is_private": false,
+            "name": "Room A",
+            "password": "",
+            "start_time": "2023-01-01 16:00:00",
+            "status": "Close",
+            "time_limit": 60,
+            "type": "exam"
+        },
+        {
+            "capacity": 3,
+            "close_time": "",
+            "id": 2,
+            "is_private": false,
+            "name": "Dat",
+            "password": "",
+            "start_time": "",
+            "status": "Lobby",
+            "time_limit": 5,
+            "type": "exam"
+        },
+        {
+            "capacity": 3,
+            "close_time": "",
+            "id": 3,
+            "is_private": false,
+            "name": "123",
+            "password": "",
+            "start_time": "",
+            "status": "Lobby",
+            "time_limit": 3,
+            "type": "exam"
+        }
+    ]
+}

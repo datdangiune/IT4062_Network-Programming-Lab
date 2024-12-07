@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "email": "admin1@gmail.com",
+            "id": 1,
+            "name": "Admin1",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "role": "Admin",
+            "status": 1
+        },
+        {
+            "email": "admin2@gmail.com",
+            "id": 2,
+            "name": "Admin2",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "role": "Admin",
+            "status": 1
+        },
+        {
+            "email": "ndat44892@gmail.com",
+            "id": 3,
+            "name": "Datto1",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "role": "User",
+            "status": 1
+        },
+        {
+            "email": "test2@gmail,com",
+            "id": 4,
+            "name": "Datto2",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "role": "User",
+            "status": 1
+        },
+        {
+            "email": "test3@gmail.com",
+            "id": 5,
+            "name": "Datto3",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "role": "User",
+            "status": 1
+        }
+    ]
+}

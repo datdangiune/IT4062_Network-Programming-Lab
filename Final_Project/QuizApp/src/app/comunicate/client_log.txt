@@ -1,0 +1,427 @@
+2024-12-06 22:33:55 0x02 request/registration    
+2024-12-06 22:33:55 0x03 response/registration SUCCESS  
+2024-12-06 22:35:12 0x02 request/login    
+2024-12-06 22:35:12 0x03 response/login FAILURE Password incorrect.
+2024-12-06 22:38:54 0x02 request/login    
+2024-12-06 22:38:54 0x03 response/login SUCCESS Login success!
+2024-12-06 22:38:54 0x00 request/category/list    
+2024-12-06 22:38:54 0x01 response/category/list SUCCESS  
+2024-12-06 22:38:54 0x00 request/user/list    
+2024-12-06 22:38:54 0x01 response/user/list SUCCESS Get list users success
+2024-12-06 22:39:12 0x00 request/question/get/category    
+2024-12-06 22:39:12 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-06 22:39:18 0x00 request/question/get/category    
+2024-12-06 22:39:18 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-06 22:40:02 0x00 request/question/get/category    
+2024-12-06 22:40:02 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-06 22:42:31 0x02 request/login    
+2024-12-06 22:42:31 0x03 response/login SUCCESS Login success!
+2024-12-06 22:42:31 0x00 request/category/list    
+2024-12-06 22:42:31 0x01 response/category/list SUCCESS  
+2024-12-06 22:42:31 0x00 request/room/list    
+2024-12-06 22:42:31 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-06 22:42:31 0x00 request/room/detail    
+2024-12-06 22:42:31 0x01 response/room/detail   Get room detail success
+2024-12-06 22:42:31 0x00 request/room/list/owner    
+2024-12-06 22:42:31 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-12-06 22:43:00 0x00 request/room/join    
+2024-12-06 22:43:00 0x01 response/room/join SUCCESS Join room successful!
+2024-12-06 22:43:00 0x00 request/room/detail    
+2024-12-06 22:43:00 0x01 response/room/detail   Get room detail success
+2024-12-06 22:43:04 0x00 request/room/ready    
+2024-12-06 22:43:04 0x01 response/room/ready SUCCESS 
+2024-12-06 22:43:52 0x06 request/room/unready    
+2024-12-06 22:48:04 0x02 request/login    
+2024-12-06 22:48:48 0x02 request/login    
+2024-12-06 22:49:43 0x02 request/login    
+2024-12-06 22:49:43 0x03 response/login FAILURE Account not exists.
+2024-12-06 22:49:47 0x02 request/login    
+2024-12-06 22:49:47 0x03 response/login SUCCESS Login success!
+2024-12-06 22:49:47 0x00 request/category/list    
+2024-12-06 22:49:47 0x01 response/category/list SUCCESS  
+2024-12-06 22:49:47 0x00 request/user/list    
+2024-12-06 22:49:47 0x01 response/user/list SUCCESS Get list users success
+2024-12-06 22:50:19 0x02 request/login    
+2024-12-06 22:50:19 0x03 response/login FAILURE Account not exists.
+2024-12-06 22:50:24 0x02 request/login    
+2024-12-06 22:50:24 0x03 response/login SUCCESS Login success!
+2024-12-06 22:50:24 0x00 request/category/list    
+2024-12-06 22:50:24 0x01 response/category/list SUCCESS  
+2024-12-06 22:50:24 0x00 request/room/list    
+2024-12-06 22:50:24 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-06 22:50:24 0x00 request/room/detail    
+2024-12-06 22:50:24 0x01 response/room/detail   Get room detail success
+2024-12-06 22:50:24 0x00 request/room/list/owner    
+2024-12-06 22:50:24 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-12-06 22:50:29 0x00 request/result/history    
+2024-12-06 22:50:29 0x01 response/result/history SUCCESS  
+2024-12-07 00:02:16 0x02 request/login    
+2024-12-07 00:02:16 0x03 response/login SUCCESS Login success!
+2024-12-07 00:02:16 0x00 request/category/list    
+2024-12-07 00:02:16 0x01 response/category/list SUCCESS  
+2024-12-07 00:02:16 0x00 request/user/list    
+2024-12-07 00:02:16 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 00:04:41 0x04 request/user/active    
+2024-12-07 00:04:41 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 00:04:41 0x00 request/user/list    
+2024-12-07 00:04:41 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 00:04:42 0x04 request/user/active    
+2024-12-07 00:04:42 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 00:04:42 0x00 request/user/list    
+2024-12-07 00:04:42 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 00:04:45 0x04 request/user/active    
+2024-12-07 00:04:45 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 00:04:45 0x00 request/user/list    
+2024-12-07 00:04:45 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 00:04:46 0x04 request/user/active    
+2024-12-07 00:04:46 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 00:04:46 0x00 request/user/list    
+2024-12-07 00:04:46 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 00:53:05 0x02 request/registration    
+2024-12-07 00:53:05 0x03 response/registration SUCCESS  
+2024-12-07 01:03:43 0x02 request/login    
+2024-12-07 01:03:43 0x03 response/login SUCCESS Login success!
+2024-12-07 01:03:43 0x00 request/category/list    
+2024-12-07 01:03:43 0x01 response/category/list SUCCESS  
+2024-12-07 01:03:43 0x00 request/user/list    
+2024-12-07 01:03:43 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:03:48 0x00 request/question/get/category    
+2024-12-07 01:03:48 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 01:04:02 0x00 request/question/get/category    
+2024-12-07 01:04:02 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 01:04:06 0x04 request/user/active    
+2024-12-07 01:04:06 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 01:04:06 0x00 request/user/list    
+2024-12-07 01:04:06 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:07 0x04 request/user/active    
+2024-12-07 01:04:07 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 01:04:07 0x00 request/user/list    
+2024-12-07 01:04:07 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:08 0x06 request/user/delete    
+2024-12-07 01:04:08 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:08 0x00 request/user/list    
+2024-12-07 01:04:08 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:08 0x06 request/user/delete    
+2024-12-07 01:04:08 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:08 0x00 request/user/list    
+2024-12-07 01:04:08 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:14 0x06 request/user/delete    
+2024-12-07 01:04:14 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:14 0x00 request/user/list    
+2024-12-07 01:04:14 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:15 0x06 request/user/delete    
+2024-12-07 01:04:15 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:15 0x00 request/user/list    
+2024-12-07 01:04:15 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:18 0x06 request/user/delete    
+2024-12-07 01:04:18 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:18 0x00 request/user/list    
+2024-12-07 01:04:18 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:18 0x06 request/user/delete    
+2024-12-07 01:04:18 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:18 0x00 request/user/list    
+2024-12-07 01:04:18 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:19 0x06 request/user/delete    
+2024-12-07 01:04:19 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:19 0x00 request/user/list    
+2024-12-07 01:04:19 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:20 0x06 request/user/delete    
+2024-12-07 01:04:20 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 01:04:20 0x00 request/user/list    
+2024-12-07 01:04:20 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 01:04:36 0x00 request/question/get/category    
+2024-12-07 01:04:36 0x01 response/question/get/category FAILURE No questions data available.
+2024-12-07 02:02:49 0x02 request/registration    
+2024-12-07 02:02:49 0x03 response/registration SUCCESS  
+2024-12-07 02:02:59 0x02 request/login    
+2024-12-07 02:02:59 0x03 response/login SUCCESS Login success!
+2024-12-07 02:02:59 0x00 request/category/list    
+2024-12-07 02:02:59 0x01 response/category/list SUCCESS  
+2024-12-07 02:02:59 0x00 request/room/list    
+2024-12-07 02:02:59 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 02:02:59 0x00 request/room/detail    
+2024-12-07 02:02:59 0x01 response/room/detail   Get room detail success
+2024-12-07 02:02:59 0x00 request/room/list/owner    
+2024-12-07 02:02:59 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 02:03:13 0x00 request/category/list    
+2024-12-07 02:03:13 0x01 response/category/list SUCCESS  
+2024-12-07 02:03:17 0x00 request/result/history    
+2024-12-07 02:03:17 0x01 response/result/history SUCCESS  
+2024-12-07 02:03:19 0x00 request/result/history    
+2024-12-07 02:03:19 0x01 response/result/history SUCCESS  
+2024-12-07 02:03:34 0x00 request/category/list    
+2024-12-07 02:03:34 0x01 response/category/list SUCCESS  
+2024-12-07 02:03:51 0x02 request/practice/create    
+2024-12-07 02:03:51 0x03 response/practice/create SUCCESS  
+2024-12-07 02:03:51 0x00 request/practice/start    
+2024-12-07 02:03:51 0x03 response/practice/start SUCCESS  
+2024-12-07 02:03:51 0x00 request/question/get/room    
+2024-12-07 02:03:51 0x01 response/question/get/room SUCCESS Get list question by room success.
+2024-12-07 02:04:09 0x02 request/login    
+2024-12-07 02:04:09 0x03 response/login FAILURE Account is logged in another location.
+2024-12-07 02:04:56 0x02 request/login    
+2024-12-07 02:04:56 0x03 response/login SUCCESS Login success!
+2024-12-07 02:04:56 0x00 request/category/list    
+2024-12-07 02:04:56 0x01 response/category/list SUCCESS  
+2024-12-07 02:04:56 0x00 request/room/list    
+2024-12-07 02:04:56 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 02:04:56 0x00 request/room/detail    
+2024-12-07 02:04:56 0x01 response/room/detail   Get room detail success
+2024-12-07 02:04:56 0x00 request/room/list/owner    
+2024-12-07 02:04:56 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 02:05:17 0x00 request/category/list    
+2024-12-07 02:05:17 0x01 response/category/list SUCCESS  
+2024-12-07 02:05:32 0x02 request/practice/create    
+2024-12-07 02:05:32 Error: Cannot received data from server!
+2024-12-07 02:07:29 0x02 request/login    
+2024-12-07 02:07:29 0x03 response/login SUCCESS Login success!
+2024-12-07 02:07:29 0x00 request/category/list    
+2024-12-07 02:07:29 0x01 response/category/list SUCCESS  
+2024-12-07 02:07:29 0x00 request/room/list    
+2024-12-07 02:07:29 0x01 response/room/list FAILURE No matching rooms found
+2024-12-07 02:07:29 0x00 request/room/detail    
+2024-12-07 02:07:29 0x01 response/room/detail   Get room detail success
+2024-12-07 02:07:29 0x00 request/room/list/owner    
+2024-12-07 02:07:29 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 02:07:33 0x00 request/category/list    
+2024-12-07 02:07:33 0x01 response/category/list SUCCESS  
+2024-12-07 02:07:41 0x00 request/category/list    
+2024-12-07 02:07:41 0x01 response/category/list SUCCESS  
+2024-12-07 02:07:59 0x02 request/room/create    
+2024-12-07 02:07:59 0x03 response/room/create SUCCESS  
+2024-12-07 02:07:59 0x00 request/room/list    
+2024-12-07 02:07:59 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 02:08:00 0x00 request/room/join    
+2024-12-07 02:08:00 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 02:08:05 0x00 request/room/join    
+2024-12-07 02:08:05 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 02:08:06 0x00 request/room/join    
+2024-12-07 02:08:06 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 02:08:15 0x00 request/result/history    
+2024-12-07 02:08:15 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:16 0x00 request/result/history    
+2024-12-07 02:08:16 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:19 0x00 request/result/history    
+2024-12-07 02:08:19 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:21 0x00 request/result/history    
+2024-12-07 02:08:21 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:22 0x00 request/result/history    
+2024-12-07 02:08:22 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:31 0x00 request/room/join    
+2024-12-07 02:08:31 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 02:08:33 0x00 request/result/history    
+2024-12-07 02:08:33 0x01 response/result/history SUCCESS  
+2024-12-07 02:08:34 0x00 request/result/history    
+2024-12-07 02:08:34 0x01 response/result/history SUCCESS  
+2024-12-07 02:09:01 0x00 request/result/history    
+2024-12-07 02:09:01 0x01 response/result/history SUCCESS  
+2024-12-07 02:11:42 0x02 request/login    
+2024-12-07 02:11:42 0x03 response/login SUCCESS Login success!
+2024-12-07 02:11:42 0x00 request/category/list    
+2024-12-07 02:11:42 0x01 response/category/list SUCCESS  
+2024-12-07 02:11:42 0x00 request/user/list    
+2024-12-07 02:11:42 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 02:13:12 0x00 request/question/get/category    
+2024-12-07 02:13:12 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 02:13:41 0x00 request/question/get/category    
+2024-12-07 02:13:41 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 02:16:56 0x02 request/question/create    
+2024-12-07 02:16:56 0x03 response/question/create SUCCESS  
+2024-12-07 02:16:56 0x00 request/question/get/category    
+2024-12-07 02:16:56 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 02:17:11 0x04 request/user/active    
+2024-12-07 02:17:11 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 02:17:11 0x00 request/user/list    
+2024-12-07 02:17:11 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 02:17:13 0x04 request/user/active    
+2024-12-07 02:17:13 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 02:17:13 0x00 request/user/list    
+2024-12-07 02:17:13 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 02:17:22 0x00 request/question/get/category    
+2024-12-07 02:17:22 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 02:21:02 0x02 request/login    
+2024-12-07 02:21:02 0x03 response/login FAILURE Account is logged in another location.
+2024-12-07 02:21:04 0x02 request/login    
+2024-12-07 02:21:04 0x03 response/login FAILURE Account is logged in another location.
+2024-12-07 02:22:13 0x02 request/login    
+2024-12-07 02:22:13 0x03 response/login SUCCESS Login success!
+2024-12-07 02:22:13 0x00 request/category/list    
+2024-12-07 02:22:13 0x01 response/category/list SUCCESS  
+2024-12-07 02:22:13 0x00 request/room/list    
+2024-12-07 02:22:13 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 02:22:13 0x00 request/room/detail    
+2024-12-07 02:22:13 0x01 response/room/detail   Get room detail success
+2024-12-07 02:22:13 0x00 request/room/list/owner    
+2024-12-07 02:22:13 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 02:34:17 0x02 request/login    
+2024-12-07 02:34:17 0x03 response/login SUCCESS Login success!
+2024-12-07 02:34:17 0x00 request/category/list    
+2024-12-07 02:34:17 0x01 response/category/list SUCCESS  
+2024-12-07 02:34:17 0x00 request/room/list    
+2024-12-07 02:34:17 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 02:34:17 0x00 request/room/detail    
+2024-12-07 02:34:17 0x01 response/room/detail   Get room detail success
+2024-12-07 02:34:17 0x00 request/room/list/owner    
+2024-12-07 02:34:17 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 02:34:27 0x00 request/result/history    
+2024-12-07 02:34:27 0x01 response/result/history SUCCESS  
+2024-12-07 02:34:29 0x00 request/result/history    
+2024-12-07 02:34:29 0x01 response/result/history SUCCESS  
+2024-12-07 02:34:30 0x00 request/result/history    
+2024-12-07 02:34:30 0x01 response/result/history SUCCESS  
+2024-12-07 02:34:31 0x00 request/result/history    
+2024-12-07 02:34:31 0x01 response/result/history SUCCESS  
+2024-12-07 02:34:34 0x00 request/result/history    
+2024-12-07 02:34:34 0x01 response/result/history SUCCESS  
+2024-12-07 02:35:41 0x00 request/result/history    
+2024-12-07 02:35:41 0x01 response/result/history SUCCESS  
+2024-12-07 08:54:26 0x02 request/login    
+2024-12-07 08:54:26 0x03 response/login SUCCESS Login success!
+2024-12-07 08:54:26 0x00 request/category/list    
+2024-12-07 08:54:26 0x01 response/category/list SUCCESS  
+2024-12-07 08:54:26 0x00 request/user/list    
+2024-12-07 08:54:26 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 09:41:08 0x02 request/login    
+2024-12-07 09:41:08 0x03 response/login SUCCESS Login success!
+2024-12-07 09:41:08 0x00 request/category/list    
+2024-12-07 09:41:08 0x01 response/category/list SUCCESS  
+2024-12-07 09:41:08 0x00 request/user/list    
+2024-12-07 09:41:08 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 09:41:13 0x00 request/question/get/category    
+2024-12-07 09:41:13 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 09:41:33 0x02 request/question/create    
+2024-12-07 09:41:33 0x03 response/question/create SUCCESS  
+2024-12-07 09:41:33 0x00 request/question/get/category    
+2024-12-07 09:41:33 0x01 response/question/get/category SUCCESS Get list question by category success.
+2024-12-07 09:41:46 0x04 request/user/active    
+2024-12-07 09:41:46 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 09:41:46 0x00 request/user/list    
+2024-12-07 09:41:46 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 09:41:59 0x06 request/user/delete    
+2024-12-07 09:41:59 0x07 response/user/delete SUCCESS Delete user success
+2024-12-07 09:41:59 0x00 request/user/list    
+2024-12-07 09:41:59 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 09:42:18 0x02 request/registration    
+2024-12-07 09:42:18 0x03 response/registration SUCCESS  
+2024-12-07 09:42:24 0x02 request/login    
+2024-12-07 09:42:24 0x03 response/login SUCCESS Login success!
+2024-12-07 09:42:24 0x00 request/category/list    
+2024-12-07 09:42:24 0x01 response/category/list SUCCESS  
+2024-12-07 09:42:24 0x00 request/room/list    
+2024-12-07 09:42:24 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 09:42:24 0x00 request/room/detail    
+2024-12-07 09:42:24 0x01 response/room/detail   Get room detail success
+2024-12-07 09:42:24 0x00 request/room/list/owner    
+2024-12-07 09:42:24 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-12-07 09:42:32 0x00 request/result/history    
+2024-12-07 09:42:33 0x01 response/result/history SUCCESS  
+2024-12-07 09:42:33 0x00 request/result/room    
+2024-12-07 09:42:33 0x01 response/result/room SUCCESS Get result in room exam success
+2024-12-07 09:43:06 0x02 request/login    
+2024-12-07 09:43:06 0x03 response/login FAILURE Password incorrect.
+2024-12-07 09:43:09 0x02 request/login    
+2024-12-07 09:43:09 0x03 response/login FAILURE Account is logged in another location.
+2024-12-07 09:43:57 0x02 request/registration    
+2024-12-07 09:43:57 0x03 response/registration SUCCESS  
+2024-12-07 09:44:01 0x02 request/login    
+2024-12-07 09:44:01 0x03 response/login FAILURE Account not exists.
+2024-12-07 09:44:14 0x02 request/login    
+2024-12-07 09:44:14 0x03 response/login FAILURE Account not exists.
+2024-12-07 09:44:31 0x02 request/login    
+2024-12-07 09:44:31 0x03 response/login SUCCESS Login success!
+2024-12-07 09:44:31 0x00 request/category/list    
+2024-12-07 09:44:31 0x01 response/category/list SUCCESS  
+2024-12-07 09:44:31 0x00 request/room/list    
+2024-12-07 09:44:31 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 09:44:31 0x00 request/room/detail    
+2024-12-07 09:44:31 0x01 response/room/detail   Get room detail success
+2024-12-07 09:44:31 0x00 request/room/list/owner    
+2024-12-07 09:44:31 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 09:44:38 0x00 request/category/list    
+2024-12-07 09:44:38 0x01 response/category/list SUCCESS  
+2024-12-07 09:46:15 0x00 request/category/list    
+2024-12-07 09:46:15 0x01 response/category/list SUCCESS  
+2024-12-07 09:46:49 0x00 request/category/list    
+2024-12-07 09:46:49 0x01 response/category/list SUCCESS  
+2024-12-07 09:46:57 0x00 request/category/list    
+2024-12-07 09:46:57 0x01 response/category/list SUCCESS  
+2024-12-07 09:47:32 0x00 request/category/list    
+2024-12-07 09:47:32 0x01 response/category/list SUCCESS  
+2024-12-07 10:54:27 0x00 request/category/list    
+2024-12-07 10:54:27 0x01 response/category/list SUCCESS  
+2024-12-07 10:54:40 0x02 request/room/create    
+2024-12-07 10:54:40 0x03 response/room/create SUCCESS  
+2024-12-07 10:54:40 0x00 request/room/list    
+2024-12-07 10:54:40 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 10:55:19 0x02 request/login    
+2024-12-07 10:55:19 0x03 response/login FAILURE Account is logged in another location.
+2024-12-07 10:55:39 0x02 request/registration    
+2024-12-07 10:55:39 0x03 response/registration SUCCESS  
+2024-12-07 10:55:44 0x02 request/login    
+2024-12-07 10:55:44 0x03 response/login SUCCESS Login success!
+2024-12-07 10:55:44 0x00 request/category/list    
+2024-12-07 10:55:44 0x01 response/category/list SUCCESS  
+2024-12-07 10:55:44 0x00 request/room/list    
+2024-12-07 10:55:44 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 10:55:44 0x00 request/room/detail    
+2024-12-07 10:55:44 0x01 response/room/detail   Get room detail success
+2024-12-07 10:55:44 0x00 request/room/list/owner    
+2024-12-07 10:55:44 0x01 response/room/list/owner FAILURE No matching rooms found
+2024-12-07 10:55:49 0x00 request/room/join    
+2024-12-07 10:55:49 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:51 0x00 request/room/join    
+2024-12-07 10:55:51 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:52 0x00 request/room/join    
+2024-12-07 10:55:52 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:55:52 0x00 request/room/join    
+2024-12-07 10:55:52 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:56:02 0x00 request/room/join    
+2024-12-07 10:56:02 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:56:02 0x00 request/room/join    
+2024-12-07 10:56:02 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:56:04 0x00 request/room/join    
+2024-12-07 10:56:04 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:56:04 0x00 request/room/join    
+2024-12-07 10:56:04 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 10:56:04 0x00 request/room/join    
+2024-12-07 10:56:04 0x01 response/room/join SUCCESS Join room successful!
+2024-12-07 16:12:33 0x02 request/login    
+2024-12-07 16:12:33 0x03 response/login SUCCESS Login success!
+2024-12-07 16:12:33 0x00 request/category/list    
+2024-12-07 16:12:33 0x01 response/category/list SUCCESS  
+2024-12-07 16:12:33 0x00 request/room/list    
+2024-12-07 16:12:33 0x01 response/room/list SUCCESS Get list rooms success.
+2024-12-07 16:12:33 0x00 request/room/detail    
+2024-12-07 16:12:33 0x01 response/room/detail   Get room detail success
+2024-12-07 16:12:33 0x00 request/room/list/owner    
+2024-12-07 16:12:33 0x01 response/room/list/owner SUCCESS Get list rooms owner success
+2024-12-07 16:12:40 0x00 request/result/history    
+2024-12-07 16:12:40 0x01 response/result/history SUCCESS  
+2024-12-07 16:12:40 0x00 request/result/room    
+2024-12-07 16:12:40 0x01 response/result/room SUCCESS Get result in room exam success
+2024-12-07 16:12:41 0x00 request/category/list    
+2024-12-07 16:12:41 0x01 response/category/list SUCCESS  
+2024-12-07 16:13:26 0x02 request/login    
+2024-12-07 16:13:26 0x03 response/login SUCCESS Login success!
+2024-12-07 16:13:26 0x00 request/category/list    
+2024-12-07 16:13:26 0x01 response/category/list SUCCESS  
+2024-12-07 16:13:26 0x00 request/user/list    
+2024-12-07 16:13:26 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 16:13:44 0x04 request/user/active    
+2024-12-07 16:13:44 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 16:13:44 0x00 request/user/list    
+2024-12-07 16:13:44 0x01 response/user/list SUCCESS Get list users success
+2024-12-07 16:13:45 0x04 request/user/active    
+2024-12-07 16:13:45 0x05 response/user/active SUCCESS Edit user status success
+2024-12-07 16:13:45 0x00 request/user/list    
+2024-12-07 16:13:45 0x01 response/user/list SUCCESS Get list users success
